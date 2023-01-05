@@ -1,6 +1,6 @@
 ### Welcome fellows
 
-My name is Angelos and I am currently working at KU Leuven and Utrecht University.
+My name is Angelos and I am currently working at Utrecht University and KU Leuven.
 I am mostly interested in avoidance learning, pain, fear, anxiety disorders, and computational
 modelling. If you want to know more about me, check my website at [https://www.akrypotos.com](https://www.akrypotos.com).
 
